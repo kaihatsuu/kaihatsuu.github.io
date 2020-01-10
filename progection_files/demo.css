@@ -2,32 +2,7 @@
 Header
 ========================================================================== */
 
-#social_link
-{
-    color:rgb(52, 109, 241);
-}
 
-#social_button
-{
-    color:rgb(49, 118, 223);
-    font-size:22px;
-}
-
-#social_button1
-{
-    background:rgb(19, 101, 207);
-    font-size:22px;
-}
-
-.col-lg-2{
-  padding:10px;
-}
-.col-lg-2 img{
-   
-}
-.col-half-offset{
-    margin-left:4.166666667%
-}
 
 body {
     margin-right: 0;
@@ -87,7 +62,7 @@ body {
     font-size:14px;
     padding:5px;
     text-align:center;
-    
+
 }
 
 .page-header {
@@ -202,7 +177,7 @@ body {
 
 }
 
-#mobile 
+#mobile
 {
     background: rgb(65, 67, 70);
 }
@@ -317,4 +292,36 @@ p{
     #sectionsNav{
         height: 65px;
     }
+}
+.fa {
+  padding: 5px 10px 5px 8px;
+  font-size: 25px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 25%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram {
+  background: #E1306C;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
 }
